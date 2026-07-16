@@ -1,0 +1,21 @@
+{
+  "title": "PathoNiche Resolver-Window: Analysis Code and Derived Data for Liver Fibrosis Regression Resistance",
+  "upload_type": "software",
+  "publication_date": "2026-07-16",
+  "description": "Analysis-code snapshots, non-identifying aggregate clinical results, public-data-derived molecular and spatial results, and publication figures supporting the manuscript 'A resolver-window imbalance links stellate-cell scar occupation to liver fibrosis regression resistance.' The clinical component contains no participant-level records or identifiers. Large public raw datasets are referenced by accession and are not redistributed. Code is MIT licensed; author-owned documentation, figures, and derived tabular outputs are CC BY 4.0.",
+  "creators": [
+    {"name": "Ying, Hongyu", "affiliation": "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"},
+    {"name": "Zhang, Ze", "affiliation": "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"},
+    {"name": "Qiao, Chunping", "affiliation": "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"},
+    {"name": "Dong, Chang", "affiliation": "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"},
+    {"name": "Yu, Hong-wei", "affiliation": "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"}
+  ],
+  "keywords": ["liver fibrosis", "hepatic stellate cells", "spatial transcriptomics", "MASLD", "fibrosis regression", "resolver window", "single-cell transcriptomics", "transient elastography", "LINCS L1000", "reproducible research"],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.1.0",
+  "related_identifiers": [
+    {"identifier": "https://github.com/LightChainr/PathoNiche-ResolverWindow", "relation": "isSupplementTo", "scheme": "url"}
+  ],
+  "notes": "Dual-license release: MIT for code; CC BY 4.0 for author-owned documentation, figures, and derived tabular outputs. Supported by National Natural Science Foundation of China grant 82473682 and Project of Key Medical Specialty and Treatment Center of Pudong grant PWZxk2022-08."
+}
