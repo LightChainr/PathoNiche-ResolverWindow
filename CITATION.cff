@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the associated manuscript."
+title: "PathoNiche Resolver-Window: Analysis Code and Derived Data for Liver Fibrosis Regression Resistance"
+type: software
+version: 1.1.0
+date-released: 2026-07-16
+doi: 10.5281/zenodo.21388386
+url: "https://doi.org/10.5281/zenodo.21388386"
+repository-code: "https://github.com/LightChainr/PathoNiche-ResolverWindow"
+authors:
+  - family-names: Ying
+    given-names: Hongyu
+    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Zhang
+    given-names: Ze
+    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Qiao
+    given-names: Chunping
+    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Dong
+    given-names: Chang
+    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Yu
+    given-names: Hong-wei
+    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+keywords:
+  - liver fibrosis
+  - hepatic stellate cells
+  - spatial transcriptomics
+  - fibrosis regression
+  - resolver window
+  - MASLD
+  - reproducible research
+license: MIT
