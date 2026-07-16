@@ -1,0 +1,7 @@
+This repository uses a dual-license model.
+
+Original analysis code under `code/` and `scripts/` is licensed under the MIT License. See `LICENSE_CODE_MIT.txt`.
+
+Author-owned documentation, figures, and derived tabular outputs are licensed under the Creative Commons Attribution 4.0 International License. See `LICENSE_DATA_CC-BY-4.0.txt`.
+
+Third-party public datasets are not relicensed by this repository. Their original access conditions, licenses, and citation requirements continue to apply.
