@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+release_validation_report.json
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
+private/
+raw/
+secrets/
