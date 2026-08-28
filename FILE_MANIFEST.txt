@@ -7,9 +7,9 @@ bytes	path
 495	LICENSE
 1084	LICENSE_CODE_MIT.txt
 540	LICENSE_DATA_CC-BY-4.0.txt
-7017	README.md
+6994	README.md
 2833	RELEASE_QA_REPORT.md
-685	RELEASE_STATUS.md
+682	RELEASE_STATUS.md
 10	VERSION
 8606	code/atlas/m2_gse136103_build_h5ad.py
 5505	code/atlas/m2_gse136103_cell_state_label_v1.py

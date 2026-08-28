@@ -2,7 +2,7 @@
 
 Source data, derived results, code snapshots, audit records, and revised figures for the manuscript **“Stellate-cell retention progressively occupies liver scar and constricts repair interfaces.”**
 
-> Release status: `v2.1.0`, an archived rejection-recovery release that passes full validation and clean-copy reconstruction. The repository is <https://github.com/LightChainr/PathoNiche-ResolverWindow>; the version-specific archival DOI is <https://doi.org/10.5281/zenodo.22138229>.
+> Release status: `v2.1.0`, a validated reproducibility release with clean-environment reconstruction. The repository is <https://github.com/LightChainr/PathoNiche-ResolverWindow>; the version-specific archival DOI is <https://doi.org/10.5281/zenodo.22138229>.
 
 ![Progressive HSC scar occupation](figures/main/Figure_5_Progressive_Retention_Domain_Occupation.png)
 

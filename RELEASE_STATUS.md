@@ -1,6 +1,6 @@
 # Release status
 
-`v2.1.0` is the validated rejection-recovery release prepared for GitHub and Zenodo. The working tree and an independent clean copy each pass the complete release validator with reconstruction enabled. Its version-specific archival DOI is `10.5281/zenodo.22138229`.
+`v2.1.0` is the validated reproducibility release prepared for GitHub and Zenodo. The working tree and an independent clean copy each pass the complete release validator with reconstruction enabled. Its version-specific archival DOI is `10.5281/zenodo.22138229`.
 
 Merge to the public `main` branch remains blocked until all of the following are complete:
 
