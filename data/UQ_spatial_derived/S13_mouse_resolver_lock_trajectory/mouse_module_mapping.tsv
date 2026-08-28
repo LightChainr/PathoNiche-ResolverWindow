@@ -1,0 +1,8 @@
+module	cell_type	requested	present	genes
+HSC_retention	HSC_Mesenchymal	11	11	Itgb5;Gas7;Spon1;Svep1;Pdgfra;Lama2;Epha3;Dpysl3;Ltbp2;Efemp1;Serpine1
+feedback_core	HSC_Mesenchymal	4	4	Serpine1;Spon1;Gas7;Ltbp2
+TGF_latch	HSC_Mesenchymal	8	7	Tgfb1;Tgfbr1;Tgfbr2;Smad3;Smad7;Ccn2;Thbs1
+antiproteolytic_brake	HSC_Mesenchymal	4	4	Serpine1;Timp1;Timp2;Thbs1
+protease_potential	Myeloid	5	5	Plau;Plat;Mmp2;Mmp9;Mmp14
+Endo_resolver	Endothelial	10	10	Wnt9b;Wnt7b;Vwf;Ace;Kdr;Esam;Emcn;Plvap;Klf2;Nr2f2
+LAM_resolver	Myeloid	8	8	Trem2;Gpnmb;Lpl;Mmp14;Ctsb;Ctsd;Axl;Mertk

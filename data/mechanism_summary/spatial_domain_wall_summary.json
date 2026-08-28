@@ -1,0 +1,27 @@
+{
+  "n_spots": 13585,
+  "n_biopsies": 33,
+  "n_patients": 32,
+  "boundary_definition": "p_locked >= 0.5; signed shortest-path distance to nearest opposite-basin spot",
+  "largest_domain_stage_beta": 0.09603914800529065,
+  "largest_domain_permutation_fdr": 0.00039996000399960006,
+  "interface_stage_beta": -0.028733200324141162,
+  "interface_permutation_fdr": 0.00019998000199980003,
+  "threshold_sensitivity": {
+    "thresholds": [
+      0.4,
+      0.5,
+      0.6,
+      0.67
+    ],
+    "largest_domain_beta_range": [
+      0.07366470518952815,
+      0.102248117132203
+    ],
+    "interface_beta_range": [
+      -0.03248224585627828,
+      -0.027894116150220576
+    ]
+  },
+  "interpretation": "Fibrosis progression consolidates initially fragmented locked islands into a dominant spatial domain while compressing the resolved-locked interface; across that interface the resolver advantage changes sign as HSC retention and antiproteolytic control overtake resolver activity."
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="368.274047pt" height="238.611938pt" viewBox="0 0 368.274047 238.611938" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-28T11:21:46.035007</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 238.611938 
+L 368.274047 238.611938 
+L 368.274047 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 59.22 172.071703 
+L 300.96 172.071703 
+L 300.96 20.115703 
+L 59.22 20.115703 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: middle; fill: #262626" x="94.910296" y="185.740062" transform="rotate(-0 94.910296 185.740062)">F1</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: middle; fill: #262626" x="180.09" y="185.740062" transform="rotate(-0 180.09 185.740062)">F2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: middle; fill: #262626" x="265.269704" y="185.740062" transform="rotate(-0 265.269704 185.740062)">F4</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 8.5px; font-family: 'Arial'; text-anchor: middle; fill: #262626" x="180.09" y="197.314828" transform="rotate(-0 180.09 197.314828)">Fibrosis stage represented by the section</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <path d="M 59.22 169.6208 
+L 300.96 169.6208 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="172.30498" transform="rotate(-0 50.92 172.30498)">−0.6</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <path d="M 59.22 145.111768 
+L 300.96 145.111768 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="147.795947" transform="rotate(-0 50.92 147.795947)">−0.4</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <path d="M 59.22 120.602735 
+L 300.96 120.602735 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="123.286915" transform="rotate(-0 50.92 123.286915)">−0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4">
+      <path d="M 59.22 96.093703 
+L 300.96 96.093703 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="98.777883" transform="rotate(-0 50.92 98.777883)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5">
+      <path d="M 59.22 71.584671 
+L 300.96 71.584671 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="74.268851" transform="rotate(-0 50.92 74.268851)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6">
+      <path d="M 59.22 47.075639 
+L 300.96 47.075639 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="49.759818" transform="rotate(-0 50.92 49.759818)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_7">
+      <path d="M 59.22 22.566606 
+L 300.96 22.566606 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #dce2e5; stroke-width: 0.55; stroke-linecap: round"/>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end; fill: #262626" x="50.92" y="25.250786" transform="rotate(-0 50.92 25.250786)">0.6</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 8.5px; font-family: 'Arial'; fill: #262626" transform="translate(21.335203 149.398664) rotate(-90)">Vimentin - CD31 enrichment</text>
+     <text style="font-size: 8.5px; font-family: 'Arial'; fill: #262626" transform="translate(30.325547 140.740617) rotate(-90)">in collagen-rich patches</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 70.208182 96.093703 
+L 119.61241 96.093703 
+L 119.61241 143.490319 
+L 70.208182 143.490319 
+z
+" clip-path="url(#p36111a3b88)" style="fill: #7bb8a5; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 155.387886 96.093703 
+L 204.792114 96.093703 
+L 204.792114 128.609134 
+L 155.387886 128.609134 
+z
+" clip-path="url(#p36111a3b88)" style="fill: #d6aa52; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 240.56759 96.093703 
+L 289.971818 96.093703 
+L 289.971818 37.976595 
+L 240.56759 37.976595 
+z
+" clip-path="url(#p36111a3b88)" style="fill: #b23a48; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 59.22 96.093703 
+L 300.96 96.093703 
+" clip-path="url(#p36111a3b88)" style="fill: none; stroke: #24313a; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 59.22 172.071703 
+L 59.22 20.115703 
+" style="fill: none; stroke: #a9b2b7; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 59.22 172.071703 
+L 300.96 172.071703 
+" style="fill: none; stroke: #a9b2b7; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle; fill: #24313a" x="94.910296" y="155.956552" transform="rotate(-0 94.910296 155.956552)">-0.387</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: middle; fill: #68757d" x="94.910296" y="167.278559" transform="rotate(-0 94.910296 167.278559)">1 section</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle; fill: #24313a" x="180.09" y="141.075368" transform="rotate(-0 180.09 141.075368)">-0.265</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: middle; fill: #68757d" x="180.09" y="167.278559" transform="rotate(-0 180.09 167.278559)">1 section</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial'; text-anchor: middle; fill: #24313a" x="265.269704" y="30.883312" transform="rotate(-0 265.269704 30.883312)">+0.474</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: middle; fill: #68757d" x="265.269704" y="167.278559" transform="rotate(-0 265.269704 167.278559)">1 section</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #262626" x="59.22" y="14.115703" transform="rotate(-0 59.22 14.115703)">Section-specific CODEX concordance</text>
+   </g>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 6.9px; font-family: 'Arial'; text-anchor: start; fill: #68757d" x="7.2" y="229.959703" transform="rotate(-0 7.2 229.959703)">Descriptive sections: one F1, one F2, and one F4 biopsy. Bars are not connected and do not estimate a stage trend.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p36111a3b88">
+   <rect x="59.22" y="20.115703" width="241.74" height="151.956"/>
+  </clipPath>
+ </defs>
+</svg>

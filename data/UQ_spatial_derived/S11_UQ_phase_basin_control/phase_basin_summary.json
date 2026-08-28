@@ -1,0 +1,76 @@
+{
+  "n_spots": 13585,
+  "n_biopsies": 33,
+  "n_patients": 32,
+  "n_spatial_blocks": 589,
+  "best_gmm_components": 2,
+  "bic_gain_one_to_two": 141.01218590066708,
+  "patient_bootstrap_multibasin_fraction": 1.0,
+  "leave_one_patient_out": {
+    "median_posterior_r": 0.9995959902588478,
+    "median_posterior_mae": 0.006976557223550208,
+    "median_basin_agreement": 1.0,
+    "minimum_basin_agreement": 0.9722222222222222
+  },
+  "locked_fraction_stage_trend": {
+    "basin_state": "locked",
+    "n_patients": 32,
+    "stage_beta": 0.038613280898779544,
+    "hc3_se": 0.008585501285919653,
+    "hc3_p": 6.8757580323628966e-06,
+    "within_array_permutation_p": 0.0001,
+    "spearman_rho": 0.6246114522559348,
+    "permutation_fdr": 0.00030000000000000003
+  },
+  "axis_definition_sensitivity": [
+    {
+      "axis_definition": "pca_primary",
+      "resolver_column": "resolver_axis",
+      "lock_column": "lock_axis",
+      "bic_gain_one_to_two": 141.01218590066708,
+      "n_patients": 32,
+      "stage_beta": 0.08210263761216538,
+      "hc3_se": 0.02607662330614558,
+      "hc3_p": 0.001641023444792728,
+      "within_array_permutation_p": 0.0006,
+      "spearman_rho": 0.5876135741248465,
+      "permutation_fdr": 0.0018
+    },
+    {
+      "axis_definition": "mechanistic_equal",
+      "resolver_column": "resolver_mechanistic_equal",
+      "lock_column": "lock_mechanistic_equal",
+      "bic_gain_one_to_two": 219.82349320980632,
+      "n_patients": 32,
+      "stage_beta": 0.07714697772692802,
+      "hc3_se": 0.02725331729606637,
+      "hc3_p": 0.004644086889319471,
+      "within_array_permutation_p": 0.0014,
+      "spearman_rho": 0.6059066441697332,
+      "permutation_fdr": 0.0021
+    },
+    {
+      "axis_definition": "compact_equal",
+      "resolver_column": "resolver_compact_equal",
+      "lock_column": "lock_compact_equal",
+      "bic_gain_one_to_two": 151.6566400194663,
+      "n_patients": 32,
+      "stage_beta": 0.06478084191423046,
+      "hc3_se": 0.024015755955938776,
+      "hc3_p": 0.0069876787848987265,
+      "within_array_permutation_p": 0.0044,
+      "spearman_rho": 0.5262392257995167,
+      "permutation_fdr": 0.0044
+    }
+  ],
+  "matched_ECM_stage_memory": {
+    "test": "matched_ECM_resolver_stage_memory",
+    "n_blocks": 589,
+    "n_patients": 32,
+    "stage_beta_logit_locked": -0.025300022004231596,
+    "cluster_se": 0.06507265124256584,
+    "cluster_p": 0.6974266565339757,
+    "within_array_patient_permutation_p": 0.6881
+  },
+  "interpretation": "A robust two-basin resolver-lock landscape and a stage-invariant separatrix support thresholded basin switching as a therapeutic control principle."
+}

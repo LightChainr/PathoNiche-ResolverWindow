@@ -1,0 +1,24 @@
+{
+  "cohort": {
+    "raw_scans": 9703,
+    "technical_qc_scans": 9644,
+    "adult_qc_scans": 9562,
+    "adult_index_patients": 8142,
+    "advanced_lsm_n": 2285,
+    "advanced_lsm_fraction": 0.2806435765168263,
+    "retention_phenotype_n": 885
+  },
+  "longitudinal": {
+    "n": 772,
+    "median_followup_days": 291.5,
+    "outcomes": {
+      "Persistent nonadvanced": 442,
+      "Persistent advanced": 154,
+      "Threshold regression": 143,
+      "Threshold progression": 33
+    },
+    "regression_resistant_n": 115
+  },
+  "ethics": "See the associated manuscript for the institutionally approved ethics and consent-waiver statement; source documents are not redistributed.",
+  "clinical_event_boundary": "readmission, decompensation, mortality, transplant, treatment exposure, and prescription outcomes not present in current source files"
+}

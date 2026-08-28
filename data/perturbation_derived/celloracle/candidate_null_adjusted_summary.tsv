@@ -1,0 +1,4 @@
+state_slug	target	matched_control	n_donors	mean_fra_rescue_observed	mean_fra_rescue_matched_control	mean_fra_rescue_randomized_grn	mean_null_adjusted_fra_rescue	bootstrap_ci_low	bootstrap_ci_high	n_donors_positive_adjusted_rescue	directional_rescue_supported	native_method
+hsc_myofibroblast	RUNX2	ETV6	5	4.805539129547783e-05	0.0005593825985372311	9.661111407107707e-05	-0.00027994146500867634	-0.0003582969747435537	-0.00021647086723840516	0	False	CellOracle_0.18.0_donor_mean_exact_propagation
+hsc_myofibroblast	JUN	ID3	5	0.03410921452103818	-0.007211300114499136	0.025336880167544446	0.025046424494515523	0.023365395958837975	0.027487237563817733	5	True	CellOracle_0.18.0_donor_mean_exact_propagation
+hsc_myofibroblast	FOS	JUNB	5	0.09184354975029448	-0.017191209582944837	0.011760115562147903	0.09455909676069295	0.0888072963924941	0.10031089712889178	5	True	CellOracle_0.18.0_donor_mean_exact_propagation

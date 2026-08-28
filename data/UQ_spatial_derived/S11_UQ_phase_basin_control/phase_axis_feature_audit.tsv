@@ -1,0 +1,15 @@
+family	feature	covariates	residual_sd	raw_residual_r	axis	loading	explained_variance
+lock	HSC_retention	HSC_identity;log_library;array_fixed_effects	1.0	0.8699752198299			
+lock	feedback_core	HSC_identity;log_library;array_fixed_effects	0.9999999999999999	0.9710024303444162			
+lock	clearance_inefficiency	HSC_identity;Myeloid_identity;log_library;array_fixed_effects	1.0	0.9962832785464548			
+lock	TGFb_integrator	HSC_identity;Myeloid_identity;log_library;array_fixed_effects	1.0	0.9137383376213086			
+resolver	Endo_resolver	Endo_identity;HSC_identity;log_library;array_fixed_effects	1.0	0.8894174061893755			
+resolver	LAM_resolver	Myeloid_identity;HSC_identity;log_library;array_fixed_effects	0.9999999999999999	0.8970267794769864			
+aux	antiproteolytic_brake	HSC_identity;Myeloid_identity;log_library;array_fixed_effects	1.0	0.9282409306973035			
+aux	protease_activation_potential	HSC_identity;Myeloid_identity;log_library;array_fixed_effects	1.0	0.8843991043562215			
+	HSC_retention				lock	0.613843922352475	0.43998709356340304
+	feedback_core				lock	0.6250384573322986	0.43998709356340304
+	clearance_inefficiency				lock	0.3656396896908503	0.43998709356340304
+	TGFb_integrator				lock	0.314372681970568	0.43998709356340304
+	Endo_resolver				resolver	0.7071067811865506	0.5261020634995429
+	LAM_resolver				resolver	0.7071067811865446	0.5261020634995429

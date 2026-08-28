@@ -1,0 +1,35 @@
+{
+  "n_eligible_compounds": 394,
+  "n_early_primers": 20,
+  "n_late_suppressors": 15,
+  "n_ordered_pairs": 299,
+  "lead_pair": "ezetimibe -> verteporfin",
+  "lead_pair_metrics": {
+    "early_compound": "ezetimibe",
+    "late_compound": "verteporfin",
+    "forward_score": 0.8923123237262998,
+    "reverse_score": 0.5041988742064742,
+    "order_advantage": 0.3881134495198255,
+    "early_mean_resolver": 0.5361593619787267,
+    "early_resolver_floor": 0.2945428660937718,
+    "early_retention": -0.0482021930317084,
+    "late_retention": 0.3174578201853567,
+    "late_q25_retention": 0.1837441553879115,
+    "late_resolver_floor": 0.0395371671766042,
+    "early_tier": "Tier_4_not_prioritized",
+    "late_tier": "Tier_1_mechanistic_probe",
+    "both_named": true,
+    "both_hard_gate": false,
+    "forward_percentile": 0.9063545150501672,
+    "order_percentile": 0.8093645484949833,
+    "basin_switch_index": 0.8724080267558529,
+    "basin_switch_rank": 24
+  },
+  "weight_sensitivity": {
+    "median_rank": 28.0,
+    "best_rank": 20,
+    "worst_rank": 46,
+    "n_schemes": 27
+  },
+  "claim": "A prime-then-switch hypothesis with a strong computed direction advantage; designed for direct equal-exposure order testing."
+}
