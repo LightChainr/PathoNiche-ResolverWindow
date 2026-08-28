@@ -2,7 +2,7 @@
 
 ## Scope
 
-The `v2.1.0-rc1` candidate contains privacy-screened aggregate institutional outputs, public-data-derived results, exact analytical audits, environment locks, executable workflows, and publication figures. Manuscript drafts, graphical-abstract concepts, private author or ethics material, participant-level clinical data, linkage files, credentials, and large public raw datasets are excluded.
+Release `v2.1.0` contains privacy-screened aggregate institutional outputs, public-data-derived results, exact analytical audits, environment locks, executable workflows, and publication figures. Manuscript drafts, graphical-abstract concepts, private author or ethics material, participant-level clinical data, linkage files, credentials, and large public raw datasets are excluded.
 
 ## Structural validation
 

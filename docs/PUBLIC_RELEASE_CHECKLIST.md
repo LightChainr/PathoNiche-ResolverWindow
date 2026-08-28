@@ -5,14 +5,14 @@
 - [ ] Every author approves authorship order, CRediT roles, licenses, repository contents, and public release.
 - [ ] Continuing ethics coverage and the exact consent/waiver wording are confirmed for the full clinical-data period.
 - [x] The repository owner/name replaces the GitHub placeholder in `CITATION.cff`.
-- [ ] The reserved Zenodo DOI replaces the DOI placeholder in `CITATION.cff`.
-- [ ] The same DOI is inserted into the manuscript's Data availability and Code availability statements.
+- [x] The reserved Zenodo DOI replaces the DOI placeholder in `CITATION.cff`.
+- [x] The same DOI is inserted into the manuscript's Data availability and Code availability statements.
 - [ ] The final manuscript title and repository title match.
-- [ ] `python scripts/validate_release.py` exits successfully.
-- [ ] `SHA256SUMS.txt` and `FILE_MANIFEST.txt` are regenerated after the last change.
-- [ ] The release archive checksum is recorded outside the archive.
+- [x] `python scripts/validate_release.py` exits successfully.
+- [x] `SHA256SUMS.txt` and `FILE_MANIFEST.txt` are regenerated after the last change.
+- [x] The release archive checksum is recorded outside the archive.
 - [ ] A second author manually inspects `data/clinical_aggregate/` and `data/flow_aggregate/`.
-- [ ] The `v2.1.0-rc1` branch remains unmerged until the Zenodo record and manuscript metadata are synchronized.
+- [x] The `release/v2.1.0-rc1` branch remains unmerged until the Zenodo record and manuscript metadata are synchronized.
 
 ## Never add
 

@@ -6,8 +6,8 @@
 2. Open a pull request against `main` and leave it unmerged while the new Zenodo version is prepared.
 3. Run `python scripts/validate_release.py --rebuild` in a clean checkout of the release branch.
 4. Complete `PUBLIC_RELEASE_CHECKLIST.md` with a second author.
-5. Create a Zenodo draft deposit for the release archive and reserve a DOI.
-6. Replace the GitHub and DOI placeholders in `CITATION.cff` and the manuscript availability statements.
+5. Use the Zenodo new-version draft with reserved DOI `10.5281/zenodo.22138229`.
+6. Verify the GitHub URL and DOI in `CITATION.cff` and the manuscript availability statements.
 7. Regenerate `FILE_MANIFEST.txt`, `SHA256SUMS.txt`, and the ZIP archive.
 8. Merge the reviewed release branch and tag the resulting commit `v2.1.0`.
 9. Publish the Zenodo record after the GitHub and manuscript metadata agree.

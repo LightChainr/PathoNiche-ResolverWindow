@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "Please cite the associated manuscript and the DOI assigned to this release."
+message: "Please cite the associated manuscript and this archived release."
 title: "Source data and analysis code for Stellate-cell retention progressively occupies liver scar and constricts repair interfaces"
-type: dataset
-version: 2.1.0-rc1
+type: software
+version: 2.1.0
 date-released: 2026-08-28
 authors:
   - family-names: Ying
@@ -31,5 +31,5 @@ license: CC-BY-4.0
 repository-code: "https://github.com/LightChainr/PathoNiche-ResolverWindow"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.REPLACE_WITH_RESERVED_DOI"
-    description: "Reserved release DOI; replace before publication"
+    value: "10.5281/zenodo.22138229"
+    description: "Version-specific archival DOI for release v2.1.0"
