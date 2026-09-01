@@ -1,0 +1,95 @@
+{
+  "ECM_scar": [
+    "ACTA2",
+    "COL1A1",
+    "COL1A2",
+    "COL3A1",
+    "COL6A1",
+    "DCN",
+    "LOXL2",
+    "LUM",
+    "SPARC",
+    "TAGLN",
+    "THBS2",
+    "TIMP1"
+  ],
+  "HSC_identity": [
+    "COL6A1",
+    "CSPG4",
+    "DES",
+    "NOTCH3",
+    "PDGFRB",
+    "RGS5"
+  ],
+  "Endo_identity": [
+    "CDH5",
+    "EGFL7",
+    "ENG",
+    "ERG",
+    "PECAM1",
+    "RAMP2",
+    "ROBO4",
+    "TEK"
+  ],
+  "Myeloid_identity": [
+    "AIF1",
+    "CD68",
+    "CTSS",
+    "FCER1G",
+    "LST1",
+    "SPI1",
+    "TYROBP"
+  ],
+  "HSC_retention": [
+    "DPYSL3",
+    "EFEMP1",
+    "EPHA3",
+    "GAS7",
+    "ITGB5",
+    "LAMA2",
+    "LTBP2",
+    "PDGFRA",
+    "SERPINE1",
+    "SPON1",
+    "SVEP1"
+  ],
+  "Endo_resolver": [
+    "ACE",
+    "EMCN",
+    "ESAM",
+    "KDR",
+    "KLF2",
+    "NR2F2",
+    "PLVAP",
+    "VWF",
+    "WNT7B",
+    "WNT9B"
+  ],
+  "LAM_resolver": [
+    "AXL",
+    "CTSB",
+    "CTSD",
+    "GPNMB",
+    "LPL",
+    "MERTK",
+    "MMP14",
+    "TREM2"
+  ],
+  "AP1_control": [
+    "FOS",
+    "FOSL1",
+    "FOSL2",
+    "JUN",
+    "JUNB",
+    "JUND"
+  ],
+  "TGFb_integrator": [
+    "CCN2",
+    "SMAD3",
+    "SMAD7",
+    "TGFB1",
+    "TGFBR1",
+    "TGFBR2",
+    "THBS1"
+  ]
+}

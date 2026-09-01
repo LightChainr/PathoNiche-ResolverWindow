@@ -1,0 +1,5 @@
+output_stem	primary_input	interpretation
+Fig3D_Categorical_Evidence	data/figure_reconstruction/integrated_retention_candidates.tsv	categorical evidence; no shared numeric scale
+Fig4F_CODEX_SectionConcordance	data/figure_reconstruction/UQ_CODEX_scar_enrichment.tsv	one section per displayed stage; descriptive
+Fig6_Static_TwoComponent_Revision	data/UQ_spatial_derived/S11_UQ_phase_basin_control/phase_spatial_blocks.parquet	static full-covariance two-component GMM
+Fig7D_OrderAwareScore_Audit	data/UQ_spatial_derived/S12_sequential_basin_switch_drugs/LINCS_ordered_basin_switch_pairs.tsv	asymmetric role-weighted computational score

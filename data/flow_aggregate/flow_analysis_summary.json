@@ -1,0 +1,27 @@
+{
+  "n_rows_original": 450,
+  "n_complete_panels": 75,
+  "n_patients": 59,
+  "n_repeated_patients": 8,
+  "max_panels_per_patient": 7,
+  "context_counts": [
+    {
+      "context": "acute-inflammatory",
+      "panels": 38,
+      "patients": 34
+    },
+    {
+      "context": "metabolic-dominant",
+      "panels": 16,
+      "patients": 15
+    },
+    {
+      "context": "oncology/hematology",
+      "panels": 21,
+      "patients": 10
+    }
+  ],
+  "median_ratio_relative_error": 0.0014677011996047803,
+  "n_liver_stiffness_links_90d": 1,
+  "role_in_manuscript": "Independent real-world peripheral immune-state atlas and longitudinal supplement; not a fibrosis-stage association cohort."
+}

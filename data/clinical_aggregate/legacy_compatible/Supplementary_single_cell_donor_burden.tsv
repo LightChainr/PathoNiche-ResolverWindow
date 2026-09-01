@@ -1,0 +1,11 @@
+donor	disease	gene_set	n_genes_present	burden_score_logcpm_mean	n_cells
+cirrhotic1	cirrhotic	full_signature_v2	180	4.903940925696883	5656
+cirrhotic2	cirrhotic	full_signature_v2	180	4.927346103411869	6874
+cirrhotic3	cirrhotic	full_signature_v2	180	5.338565051641839	5446
+cirrhotic4	cirrhotic	full_signature_v2	180	2.8926784206175733	4806
+cirrhotic5	cirrhotic	full_signature_v2	180	2.833375425488283	2913
+healthy1	healthy	full_signature_v2	180	3.728698917749036	3056
+healthy2	healthy	full_signature_v2	180	2.3875357812923244	11247
+healthy3	healthy	full_signature_v2	180	3.731392876904573	7409
+healthy4	healthy	full_signature_v2	180	2.6191234498613123	8214
+healthy5	healthy	full_signature_v2	180	1.965680684180866	5100

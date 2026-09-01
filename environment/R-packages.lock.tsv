@@ -1,0 +1,9 @@
+package	version	repository	role
+R	4.6.0	Homebrew	runtime
+Matrix	1.7-5	CRAN	sparse matrices for GSE261829
+data.table	1.18.4	CRAN	pseudobulk table input and output
+edgeR	4.10.1	Bioconductor	negative-binomial pseudobulk inference
+limma	3.68.4	Bioconductor	edgeR dependency and contrasts
+jsonlite	2.0.0	CRAN	machine-readable analysis manifests
+ggplot2	4.0.3	CRAN	optional figure rendering
+svglite	2.2.2	CRAN	optional editable SVG output

@@ -1,0 +1,31 @@
+{
+  "analysis_scope": "UQ MASLD Visium biopsy reconstruction and spatial topology",
+  "geometry_assignment_inputs": [
+    "array identifier",
+    "Visium barcode",
+    "hex-grid array_row and array_col",
+    "connected-component membership"
+  ],
+  "scores_excluded_from_assignment": [
+    "ECM_scar",
+    "HSC_retention",
+    "Endo_resolver",
+    "LAM_resolver",
+    "repair/resolver composite scores",
+    "p_locked"
+  ],
+  "direct_geometry_spots": 13539,
+  "nearest_component_rescue_spots": 46,
+  "direct_geometry_match_rate": 1.0,
+  "registration_table_match_rate": 1.0,
+  "registered_biopsies": 33,
+  "patient_clusters": 32,
+  "multicomponent_biopsies": 7,
+  "inferred_synchronous_biopsies": 2,
+  "scenario_key_direction_pass": 12,
+  "scenario_key_direction_total": 12,
+  "leave_one_array_out_key_direction_pass": 16,
+  "leave_one_array_out_key_direction_total": 16,
+  "historical_operator_blinding": "not documented",
+  "independent_reconstruction_conclusion": "The current geometry-only audit reproduces component membership without consulting ECM, retention, resolver, repair, or fitted-state scores. Historical strict operator blinding cannot be established from the archived record."
+}

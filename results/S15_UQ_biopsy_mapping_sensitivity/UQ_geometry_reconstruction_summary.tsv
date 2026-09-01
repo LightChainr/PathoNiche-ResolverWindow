@@ -1,0 +1,9 @@
+array	n_analysis_spots	n_direct_geometry_spots	n_rescued_fragment_spots	n_direct_component_matches	direct_component_match_rate	n_registration_matches	registration_match_rate
+VLP115_A	1743	1728	15	1728	1.0	1743	1.0
+VLP116_D	2173	2173	0	2173	1.0	2173	1.0
+VLP119_A	1691	1685	6	1685	1.0	1691	1.0
+VLP119_D	1255	1245	10	1245	1.0	1255	1.0
+VLP120_A	1884	1878	6	1878	1.0	1884	1.0
+VLP120_D	1650	1646	4	1646	1.0	1650	1.0
+VLP121_A	1506	1501	5	1501	1.0	1506	1.0
+VLP121_D	1683	1683	0	1683	1.0	1683	1.0

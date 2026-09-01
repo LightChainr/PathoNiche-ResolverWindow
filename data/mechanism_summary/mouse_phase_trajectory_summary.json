@@ -1,0 +1,103 @@
+{
+  "n_replicated_mice": 9,
+  "geometry": {
+    "progression_vector": [
+      1.8517825485074735,
+      1.4121560803037632
+    ],
+    "withdrawal_vector": [
+      -0.4113883868762583,
+      -0.6569694957746913
+    ],
+    "return_cosine": 0.9359570143983825,
+    "return_angle_degrees": 20.616688658580056,
+    "residual_distance_ratio": 0.6983693102084559,
+    "control_centroid": [
+      -1.0973922367128963,
+      -0.7224475549442783
+    ],
+    "fibrosis_centroid": [
+      0.7543903117945772,
+      0.6897085253594848
+    ],
+    "regression_centroid": [
+      0.3430019249183189,
+      0.032739029584793446
+    ]
+  },
+  "tests": [
+    {
+      "outcome": "resolver_axis",
+      "contrast": "progression",
+      "effect": 1.8517825485074735,
+      "exact_two_sided_p": 0.004164187983343248,
+      "exact_directional_p": 0.002379535990481856,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "resolver_axis",
+      "contrast": "withdrawal",
+      "effect": -0.4113883868762583,
+      "exact_two_sided_p": 0.5823914336704342,
+      "exact_directional_p": 0.2914931588340274,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "resolver_axis",
+      "contrast": "residual",
+      "effect": 1.4403941616312153,
+      "exact_two_sided_p": 0.042236763831052945,
+      "exact_directional_p": 0.021415823914336704,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "lock_axis",
+      "contrast": "progression",
+      "effect": 1.4121560803037632,
+      "exact_two_sided_p": 0.006543723973825104,
+      "exact_directional_p": 0.003569303985722784,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "lock_axis",
+      "contrast": "withdrawal",
+      "effect": -0.6569694957746913,
+      "exact_two_sided_p": 0.32540154669839383,
+      "exact_directional_p": 0.16299821534800712,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "lock_axis",
+      "contrast": "residual",
+      "effect": 0.7551865845290717,
+      "exact_two_sided_p": 0.2552052349791791,
+      "exact_directional_p": 0.12790005948839978,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "control_imbalance",
+      "contrast": "progression",
+      "effect": -0.3108628568559357,
+      "exact_two_sided_p": 0.3075550267697799,
+      "exact_directional_p": 0.15407495538370017,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "control_imbalance",
+      "contrast": "withdrawal",
+      "effect": -0.17365206743339404,
+      "exact_two_sided_p": 0.5728732897085068,
+      "exact_directional_p": 0.2867340868530637,
+      "n_assignments": 1680
+    },
+    {
+      "outcome": "control_imbalance",
+      "contrast": "residual",
+      "effect": -0.4845149242893297,
+      "exact_two_sided_p": 0.06841165972635337,
+      "exact_directional_p": 0.034503271861986914,
+      "n_assignments": 1680
+    }
+  ],
+  "claim": "Withdrawal follows a non-reciprocal trajectory with residual displacement in resolver-lock space."
+}

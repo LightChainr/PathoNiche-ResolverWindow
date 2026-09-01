@@ -1,0 +1,15 @@
+gene	class	"Human HSC
+disease increase"	"Published HSC
+ATAC + RNA"	"Mouse injury
+increase"	"Residual after
+withdrawal"	"Direct functional
+support"
+ITGB5	HSC retention	2	2	2	2	0
+GAS7	HSC retention	1	2	2	2	2
+SPON1	HSC retention	0	2	2	2	2
+SVEP1	HSC retention	1	2	2	2	0
+TREM2	Macrophage repair	-1	-1	2	2	2
+GPNMB	Macrophage repair	-1	-1	2	2	-1
+LPL	Macrophage repair	-1	-1	2	2	-1
+MMP14	Macrophage repair	-1	-1	2	2	-1
+SPP1	Macrophage repair	-1	-1	2	2	-1

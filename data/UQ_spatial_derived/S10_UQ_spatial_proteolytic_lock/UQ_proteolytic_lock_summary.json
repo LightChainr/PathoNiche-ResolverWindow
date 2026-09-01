@@ -1,0 +1,46 @@
+{
+  "n_spots": 13585,
+  "n_biopsies": 33,
+  "n_patients": 32,
+  "n_arrays": 8,
+  "primary_score": "z(SERPINE1)-mean[z(MMP2),z(MMP9)]",
+  "primary_scar_coupling": {
+    "outcome": "mechanical_barrier",
+    "n_patients": 32,
+    "median": -0.002430600077630175,
+    "mean": 0.028354984489265524,
+    "positive_fraction": 0.46875,
+    "bootstrap_median_ci_low": -0.055144268677770614,
+    "bootstrap_median_ci_high": 0.05165874490295758,
+    "wilcoxon_signed_rank_p": 0.9632332162000239,
+    "wilcoxon_fdr": 0.9632332162000239
+  },
+  "exploratory_clearance_inefficiency": {
+    "post_hoc": true,
+    "score": "mean[z(SERPINE1),z(TIMP1),z(TIMP2)]-mean[z(PLAU),z(PLAT),z(MMP2),z(MMP9),z(MMP14)]",
+    "scar_coupling": {
+      "outcome": "clearance_inefficiency",
+      "n_patients": 32,
+      "median": 0.04518933843707411,
+      "mean": 0.05564844677661064,
+      "positive_fraction": 0.6875,
+      "bootstrap_median_ci_low": 0.008903096167683673,
+      "bootstrap_median_ci_high": 0.0849756052683236,
+      "wilcoxon_signed_rank_p": 0.015647762920707464,
+      "wilcoxon_fdr": 0.02190686808899045
+    },
+    "stage_trend": {
+      "analysis": "scar_coupling",
+      "feature": "clearance_inefficiency",
+      "n_patients": 32,
+      "stage_beta_array_adjusted": 0.04130936036772251,
+      "stage_beta_hc3_se": 0.017591472171352242,
+      "stage_beta_hc3_p": 0.018861321522339658,
+      "stage_beta_within_array_permutation_p": 0.0134,
+      "spearman_rho": 0.5090263311935044,
+      "spearman_p": 0.0029275748514700634,
+      "permutation_fdr_within_analysis": 0.03126666666666667
+    }
+  },
+  "claim_boundary": "Spatial association after lineage and library adjustment; not cell-specific causality."
+}
