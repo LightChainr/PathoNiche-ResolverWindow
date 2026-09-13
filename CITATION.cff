@@ -1,34 +1,32 @@
 cff-version: 1.2.0
 message: "Please cite this software release and the associated manuscript."
-title: "PathoNiche Resolver-Window: Analysis Code and Derived Data for Liver Fibrosis Regression Resistance"
+title: "Persistent HSC Scar Topology: Analysis Code and Derived Data for Human Liver Fibrosis"
 type: software
-version: 1.1.0
-date-released: 2026-07-16
-doi: 10.5281/zenodo.21388386
-url: "https://doi.org/10.5281/zenodo.21388386"
+version: 1.2.0
+date-released: 2026-09-13
+doi: 10.5281/zenodo.22138229
+url: "https://doi.org/10.5281/zenodo.22138229"
 repository-code: "https://github.com/LightChainr/PathoNiche-ResolverWindow"
 authors:
-  - family-names: Ying
-    given-names: Hongyu
-    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
-  - family-names: Zhang
-    given-names: Ze
-    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
   - family-names: Qiao
     given-names: Chunping
-    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
-  - family-names: Dong
-    given-names: Chang
-    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
-  - family-names: Yu
-    given-names: Hong-wei
-    affiliation: "Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+    affiliation: "Department of Gastroenterology, Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Ying
+    given-names: Hongyu
+    affiliation: "Department of Gastroenterology, Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Bu
+    given-names: Limei
+    affiliation: "Department of Gastroenterology, Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
+  - family-names: Xiong
+    given-names: Wujun
+    affiliation: "Department of Gastroenterology, Shanghai Pudong Hospital, Fudan University Pudong Medical Center"
 keywords:
   - liver fibrosis
   - hepatic stellate cells
   - spatial transcriptomics
   - fibrosis regression
-  - resolver window
+  - scar topology
+  - repair interface
   - MASLD
   - reproducible research
 license: MIT
